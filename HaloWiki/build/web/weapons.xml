@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="weapons.xsl" ?>
+<Weapons xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="weapons.xsd">
+	
+	
+	
+	
+	<Halo><name>Battle Rifle</name> <race> </race>	 <info>343i confirmed that the Battle Rifle will return, but it has been completely redesigned.	</info></Halo>
+	
+	<Halo><name>Assault Rifle</name>	<race>  </race>	 <info>The Assault Rifle was confirmed in 343's Spark Cast.	</info></Halo>
+	
+	<Halo><name>DMR</name>		<race> </race> <info>The DMR was also confirmed in 343's Spark Cast.</info></Halo>	
+	
+	<Halo><name>Sniper Rifle</name>	<race> </race>	 <info>The Sniper Rifle was confirmed in Game Informer.</info></Halo>	
+	
+	<Halo><name>Rocket Launcher</name><race>  </race>	<info> The Rocket Launcher was confirmed in Game Informer.	</info></Halo>
+	
+	<Halo><name>Magnum</name>	<race> </race> <info>The Magnum was confirmed in Game Informer.</info>	</Halo>
+	
+	<Halo><name>Shotgun</name>	<race> </race> <info>The Shotgun was confirmed in Game Informer.	</info></Halo>
+	
+	<Halo><name>Rail Gun</name>	<race> </race> <info>The rail gun shoots just like a gauss warthog.</info>	</Halo>
+
+	<Halo><name>SAW</name>	<race> </race> <info>SAW stands for Squad Automatic Weapon.</info>	</Halo>
+
+	<Halo><name>Spartan Laser</name><race>  </race>	 <info>The Spartan Laser was confirmed during E3 2012, as a render on Halo Waypoint.</info>	</Halo>
+	
+	<Halo><name>Sticky Detonator</name><race> </race> <info>The Sticky Detonator was revealed in the first trailer for Halo 4, then given a name during E3 2012, as a render on Halo Waypoint.</info>
+	</Halo>
+	
+
+	
+	
+	
+	
+	<Halo><name>Covenant Carbine</name><race>  </race>	 <info>Confirmed in Game Informer.</info></Halo>	
+	<Halo><name>Plasma Pistol</name><race>  </race> <info> Confirmed in Game Informer.</info>	</Halo>
+	<Halo><name>Needler</name><race> </race>	<info> The Needler was confirmed during E3 2012, as a render on Halo Waypoint.</info></Halo>	
+	<Halo><name>Energy Sword</name><race></race>	 <info>The Energy Sword was confirmed during E3 2012, as a render on Halo Waypoint.	</info></Halo>
+	<Halo><name>Storm Rifle</name><race> </race>	<info> The Storm Rifle was revealed during E3 2012, as a render on Halo Waypoint. While it is not confirmed to be Covenant weaponry, the style and design of it points to Covenant.</info>	</Halo>
+	<Halo><name>Beam Rifle</name>	<race> </race> <info>The Beam Rifle was revealed during PAX Prime 2012 in Seattle. </info></Halo>
+	
+	
+	
+	
+	
+	
+	
+	<Halo><name>Binary Rifle</name>	<race>  </race><info> This is a Forerunner sniper rifle.</info>	</Halo>
+	<Halo><name>Boltshot</name><race> </race>	 <info>Revealed in the 9/10/12 Game Informer Leak </info></Halo>
+	<Halo><name>Incineration Cannon</name><race> </race>	<info> Revealed in the 9/10/12 Game Informer Leak </info></Halo>
+	<Halo><name>Lightrifle</name><race> </race>	 <info>The Lightrifle was revealed in the E3 2012 gameplay trailer.	</info></Halo>
+	<Halo><name>Scattershot</name><race> </race>	<info> The Scattershot was revealed in the E3 2012 gameplay trailer, and as a render on Halo Waypoint.</info>	</Halo>
+	<Halo><name>Suppressor</name>	<race> </race> <info>Fully automatic Forerunner infantry weapon, firing bolts of hard light in rapidly accelerating succession.</info>
+	</Halo>
+	
+
+	
+	</Weapons>

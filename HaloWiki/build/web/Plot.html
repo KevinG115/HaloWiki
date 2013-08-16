@@ -1,0 +1,62 @@
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+var xmlhttp;
+function loadXMLDoc(url,cfunc)
+{
+if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {// code for IE6, IE5
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.onreadystatechange=cfunc;
+xmlhttp.open("GET",url,true);
+xmlhttp.send();
+}
+function myFunction()
+{
+loadXMLDoc("Spoiler.txt",function()
+  {
+  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+    document.getElementById("myDiv").innerHTML=xmlhttp.responseText;
+    }
+  });
+}
+</script>
+</head>
+
+                <body bgcolor="#595454">
+                <center>
+                    <img src="pics/header.jpg"/>
+                </center>
+                <p align ="center">
+                    <a href ="http://localhost:8080/HaloWiki/weapons"><img src="pics/WeaponIcon.jpeg"/></a>    
+                    <a href ="http://localhost:8080/HaloWiki/maps"><img src="pics/MapIcon.jpeg"/></a>
+		    <a href ="http://localhost:8080/HaloWiki/vehicles"><img src="pics/vehiclesIcon.jpg"/></a>
+		    <a href ="http://localhost:8080/HaloWiki/enemies"><img src="pics/EnemiesIcon.jpg"/></a>
+		    <a href ="Plot.html"><img src="pics/space.jpg"/></a>
+                </p>
+                
+                <center>
+                
+                    <img border="0" src="spoiler.png" alt="spolier" >
+                
+                </center>
+                
+                <center>
+                
+                <div id="myDiv"></div>
+                <button type="button" onclick="myFunction()">Spoil The Story</button>
+                </center>
+                
+                </body>
+                </html>

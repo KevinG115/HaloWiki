@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="maps.xsl" ?>
+<Mulitplayer-Maps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="maps.xsd">
+	<map2>
+	
+	
+
+	
+	<adrift>
+	ADRIFT - is a map in Halo 4. Although this CAA mining vessel was 
+	refitted as an ordnance transport, damage sustained during the 
+	Battle of Kholo has condemned it to an inescapable slide down 
+	the gravity well of a gas giant. On board, its automated systems
+	continue unabated, their operations executed in eerie futility 
+	as they drift ever-closer to destruction.
+	</adrift>
+	
+	</map2>
+	
+	<map3>
+	
+	
+	
+	
+	<exile>
+	EXILE - is an asymmetrical, large vehicle based map, that offers
+	a wide variety of gametypes, from CTF to Regicide. it has two 
+	main canyons, but they are thoroughly interconnnected.
+	</exile>
+	
+	</map3>
+	
+	<map4>
+	
+	
+
+	
+	<haven>
+	HAVEN - is a multiplayer map in Halo 4 that rests high above 
+	Requiem's surface. Harmonic-resonance platforms appear to 
+	facilitate the monitoring and management of the shield world's
+	solar preservation system. These elaborate machines enable 
+	artificial planets to support their immense populations of 
+	indigenous life.
+	</haven>
+	
+	</map4>
+	
+	<map5>
+	
+	
+	
+	<longbow>
+	LONGBOW is a multiplayer map in Halo 4 for the Wargames Game mode. 
+	The frigid climate and unique gravitational conditions of Concord's
+	northern polar region provide an optimal perch for Longbow Station's 
+	channel-based mass drivers. Before the Covenant War, the UEG launched 
+	deep space monitoring relays from here in an effort to study far-flung
+	star systems.
+	</longbow>
+	
+	</map5>
+	
+	<map6>
+	
+	
+	<meltdown>
+	MELTDOWN - 343 Industries Lead Multiplayer Level Designer Kynan Pearson takes 
+	IGN editor Ryan McCaffrey on a guided tour of "Meltdown," a large-scale,
+	vehicle friendly map and one of ten core Halo 4 multiplayer maps.
+	</meltdown>
+	
+	</map6>
+	
+	<map7>
+	
+
+	
+	<ragnarok>
+	RAGNAROK -  is a multiplayer map in Halo 4 and a remake of Valhalla, 
+	a multiplayer map from Halo 3. The only major differences between 
+	the two maps are the graphics and default weapon layout.
+	Ragnarok is the first of Halo 4's maps to feature a Mantis by default.
+	</ragnarok>
+	
+	</map7>
+	
+	<map8>
+	
+
+	
+	<solace>
+	SOLACE - is a multiplayer map in Halo 4. Solace is a symmetrical, 
+	medium-small, three teered competitive map that will be included
+	in the at launch package.It offers a variety of gameplay, from 
+	CTF to regicide.
+	</solace>
+	
+	</map8>
+	
+	<map9>
+	
+	
+	
+	<vortex>
+	VORTEX - is a large, vehicle-heavy multiplayer
+	map designed for bigger-team battles. It is the
+	only Halo 4 map with a Rocket Warthog on it by default.
+	</vortex>
+	
+	
+	</map9>
+	</Mulitplayer-Maps>

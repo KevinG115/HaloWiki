@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="vehicles.xsl" ?>
+<vehicles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="vehicles.xsd">
+	<halo>
+		<race> UNSC</race>
+		<vehicle>The Warthog </vehicle>
+		<info>
+		The Warthog was confirmed on Halo Waypoint as a render. (also appeared in Forza 4's Autovista mode as an easter egg.	
+		Mongoose	 The Mongoose was confirmed on Halo Waypoint as a render.	
+		UNSC Mammoth
+		This large transport vehicle first appeared during gameplay footage of Halo 4 shown at E3 2012, and then again as an image on Halo Waypoint.
+		</info>
+	</halo>	
+	<halo>
+		
+		<race> UNSC</race>
+		<vehicle> Mongoose </vehicle>
+		<info> The M274 Mongoose ULATV is the fastest and most maneuverable ground 
+		vehicles in the arsenal of the UNSC Marine Corps, other than the Warthog.
+		It is a highly effective vehicle for reconnaissance, rapid transportation, 
+		swift tactical versatility, and for shooting between positions. </info>
+	</halo>	
+	<halo>
+		
+		<race> UNSC</race>
+		<vehicle> The Scorpion </vehicle>
+		<info> The M808 Scorpion is a armored attack vehicle that has been in service
+		for more then 30 years, and serves as the UNSC's main anti-vehicle platform.
+		The M808B is considered light by standard definitions but has served as the UNSC's
+		main battle tank well before the Human-Covenant War.
+		</info>
+	</halo>	
+	<halo>
+		
+		<race> Covenant</race>
+		<vehicle> The Ghost </vehicle>
+		<info>
+		The Ghost was confirmed on Halo Waypoint as a render.
+		The Banshee is a fast, personal aerial assault craft used by the Covenant. 
+		The Covenant Type-52 Troop Carrier also known as the Phantom, was a much more formidable dropship than the previously seen Spirit in Halo: Combat Evolved.
+		</info>
+	</halo>	
+	<halo>
+		
+		<race> Covenant</race>
+		<vehicle> Wraith </vehicle>
+		<info>The Type-25 Assault Gun Carriage, commonly called the Wraith, 
+		is the Covenant's main heavy assault vehicle for ground engagements.
+		The Wraith can be rapidly deployed in a combat-ready state by DX-class
+		or Type-52 dropships, and thus is the bane of UNSC Marines and UNSC Colonial Militia.
+		</info>
+	</halo>	
+		</vehicles>

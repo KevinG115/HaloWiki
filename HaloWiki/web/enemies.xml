@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="enemies.xsl" ?>
+<enemies
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="enemies.xsd">
+	<race>
+	<name>ELITE</name>
+	<info>
+	The Sanghelli race are the most feared among the covenant, 
+	they joined the covenant before the unngoy, kig-yar and the 
+	Jiralhanae. They are formidable opponents in battle, and are the highest ranking race among the covenant.
+	</info>
+		
+	</race>
+	<race>
+	
+	<name> GRUNTS</name>
+	
+	
+	<info>
+	Grunts (or Unggoy) are small, aggressive members of The Covenant that are effective warriors
+	in numbers and when led by Elites, but dramatically less dangerous when not in a cohesive group,
+	often running away. Grunts are essentially cannon fodder for the Covenant; 
+	they are sometimes known to stick live plasma grenades to themselves and charge at an enemy.
+	Grunts were revelealed via Game Informer, and were shown in the E3 2012 Halo 4 campaign demo.
+	</info>
+	</race>
+	
+	<race>
+	
+	<name>JACKALS</name>
+	
+	
+	<info>
+	Jackals were revealed in the E3 2012 gameplay demo, 
+	and have been confirmed to be in the final game. 
+	There have been confirmations of Jackal Snipers as well.
+
+
+	There are three distinct races of Kig-Yar, which
+	humans have termed Jackals, Skirmishers, and now the Storm Jackals.
+	They serve as snipers, shock troopers, defensive fighters, and scouts
+	within the Covenant due to their excellent senses of sight, smell, and hearing.
+	</info>
+	</race>
+	
+	<race>
+	
+	<name> HUNTER</name>
+	
+	<info>
+	The Mgalekgolo more commonly known as Hunters, 
+	are a unique gestalt of smaller creatures known as Lekgolo, 
+	which are tiny, orange, worm-like creatures that group together to exponentially
+	increase their intelligence, strength, and maneuverability.
+	</info>
+	</race>
+	
+	<race>
+	
+	<name> FORERUNNERS</name>
+	
+	<info>
+	The Forerunners are an ancient race that came before the Covenant, 
+	composed of an advanced and complex society. The Forerunners built
+	an incredibly vast empire controlling most of the galaxy. It wasn't 
+	long, however, until they came across the parasite force, known only 
+	as the Flood. In a last resort attempt to save the all other races from 
+	the Flood, they created the Halo rings, weapons of mass destruction
+	designed to eliminate all sentient life. They detonated the halo rings, 
+	destroying the Flood and themselves in the process.
+
+	In the E3 2012 Halo 4 demo, Master Chief comes across Forerunner tech while 
+	searching for the ship, Infinity. The Forerunners had very powerful technology 
+	and some of their AI's and weaponry are very likely to appear in Halo 4 due to 
+	it's setting on a Shield World (Named Requiem).
+	</info>
+	</race>
+	
+	<race>
+	
+	<name> PROMETHEANS</name>
+	
+	
+	<info>
+	The Promeheans are humans turned into AI by the Didact to protect
+	requiem; the Didact is the forerunner who acitvated the halo rings.
+
+	The Prometheans feature a vast variety of different AI types with 
+	sophisticated tactics, technology, and unique abilities, unconfirmed
+	in halo 4; actual organic prometheans have not featured in gameplay
+	footage (possibly wiped out by the firing of the halo arrays?). 
+	The Promethean Knight appears to have 2 forms, One sporting a Light Rifle 
+	and an ability to deploy Watchers, the other weilds a Scattershot and can 
+	teleport forward to hit its target with it's blade. The second is called a 'Lancer'
+	Variant as mentioned by a 343 employee during the IGN E3 demo. Also in some trailers 
+	you can see Prometheans have blue lights instead of red although it is unclear if this 
+	has any signfigance.
+	</info>
+	</race>
+	
+</enemies>

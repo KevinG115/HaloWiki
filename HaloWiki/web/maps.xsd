@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="Multiplayer-Maps">
+  <xs:complexType>
+    <xs:sequence>
+	</xs:sequence>
+        </xs:complexType>
+      </xs:element>
+	  
+      <xs:element name="map2">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="adrift" type="xs:string"/>
+			</xs:sequence>
+        </xs:complexType>
+      </xs:element>
+	  
+	  <xs:element name="map3">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="exile" type="xs:string"/>
+			</xs:sequence>
+        </xs:complexType>
+      </xs:element>
+	  
+	  <xs:element name="map4">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="haven" type="xs:string"/>
+			</xs:sequence>
+        </xs:complexType>
+      </xs:element>
+	  
+	  <xs:element name="map5">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="longbow" type="xs:string"/>
+			</xs:sequence>
+        </xs:complexType>
+      </xs:element>
+	  
+	  <xs:element name="map6">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="meltdown" type="xs:string"/>
+			</xs:sequence>
+        </xs:complexType>
+      </xs:element>
+	  
+	  <xs:element name="map7">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="regnarok" type="xs:string"/>
+			</xs:sequence>
+        </xs:complexType>
+      </xs:element>
+	  
+	  <xs:element name="map8">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="solace" type="xs:string"/>
+			</xs:sequence>
+        </xs:complexType>
+      </xs:element>
+	  
+	  <xs:element name="map9">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="vortex" type="xs:string"/>
+			</xs:sequence>
+        </xs:complexType>
+      </xs:element>
+</xs:schema>
